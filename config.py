@@ -1,4 +1,4 @@
-numRacks = 2 
+numRacks = 1 
 numLeafs = 2 
 numSpines = 4 
 
